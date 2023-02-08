@@ -1,0 +1,1 @@
+Este es un proyecto hecho con Android studio en java y consiste en una aplicacion de dibujo con un inicio de sesion, un registro y una pantalla para dibujar
